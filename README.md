@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Get a Konclude binary for your platform which supports materializion (e.g. from [Koncludix](https://github.com/ISE-FIZKarlsruhe/Koncludix)) and check that
+1. Get a Konclude binary for your platform which supports materialization (e.g. from [Koncludix](https://github.com/ISE-FIZKarlsruhe/Koncludix)) and check that
    `Konclude -h` runs. Konclude needs Qt5 (Core, Network, Xml, Concurrent) and libjemalloc on Linux.
 2. Copy `dist/konclude-protege-0.1.0.jar` into the Protégé `plugins` folder
    (or `~/.Protege/plugins`) and restart Protégé.
